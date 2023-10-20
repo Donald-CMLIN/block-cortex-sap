@@ -4,12 +4,12 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "looker-trail-test"
+  value: "simplemart-202308231444"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "SAP_REPORTING"
+  value: "SAP_qas_SLT_BQ_simplemart"
   export: override_required
 }
 

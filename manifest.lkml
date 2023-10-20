@@ -4,16 +4,16 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project Name"
+  value: "simplemart-202308231444"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "SAP_qas_SLT_BQ_simplemart"
   export: override_required
 }
 
 constant: CLIENT {
-  value: "Client ID"
+  value: "mandt"
   export: override_required
 }

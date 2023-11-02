@@ -4,8 +4,8 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  # value: "simplemart-202308231444"
-  value: "looker-trail-test"
+  value: "simplemart-202308231444"
+  # value: "looker-trail-test"
   export: override_required
 }
 
